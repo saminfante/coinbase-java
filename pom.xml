@@ -45,7 +45,7 @@
 	</licenses>
 
 	<properties>
-		<powermock.version>1.5.5</powermock.version>
+		<powermock.version>1.7.4</powermock.version>
 	</properties>
 
 	<!-- library dependencies -->
